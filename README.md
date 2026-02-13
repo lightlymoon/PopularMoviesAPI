@@ -1,6 +1,17 @@
 Aşağıya direkt kopyalayıp kullanabileceğin, profesyonel ve tamamen İngilizce README.md dosyasını bırakıyorum:
 
-# 🎬 PopularMoviesAPI
+## 🎬 PopularMoviesAPI
+
+<div align="center">
+
+# Created with
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![REST API](https://img.shields.io/badge/REST_API-%23000000.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![LocalStorage](https://img.shields.io/badge/LocalStorage-%23FF9800.svg?style=for-the-badge&logo=googlechrome&logoColor=white)
+![Responsive](https://img.shields.io/badge/Responsive-Design-%23007ACC.svg?style=for-the-badge)
+
 
 ## 🎥 Responsive Movie Discovery & User Management Application
 
@@ -78,14 +89,6 @@ The project covers the following concepts:
 
 ---
 
-## ⭐ Rating Color System
-
-- 🟢 High rating → Green  
-- 🟠 Medium rating → Orange  
-- 🔴 Low rating → Red  
-
----
-
 # 💻 Technical Details
 
 - Fetch API usage
@@ -97,6 +100,8 @@ The project covers the following concepts:
 - Modular and readable code structure
 
 ---
+<div/>
+
 <div align="center">
 
 ## ⭐ Support ⭐ 
