@@ -10,7 +10,6 @@ Aşağıya direkt kopyalayıp kullanabileceğin, profesyonel ve tamamen İngiliz
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![REST API](https://img.shields.io/badge/REST_API-%23000000.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 ![LocalStorage](https://img.shields.io/badge/LocalStorage-%23FF9800.svg?style=for-the-badge&logo=googlechrome&logoColor=white)
-![Responsive](https://img.shields.io/badge/Responsive-Design-%23007ACC.svg?style=for-the-badge)
 
 
 ## 🎥 Responsive Movie Discovery & User Management Application
