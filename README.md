@@ -38,7 +38,7 @@ The application dynamically fetches real-time data from an external movie API to
 
 ## 📌 About The Project
 
-This project was developed using **HTML**, **CSS**, and **Vanilla JavaScript**.  
+This project was developed using **HTML**, **CSS**, and **JavaScript**.  
 After registering, users can log in and access movie content.
 
 The project covers the following concepts:
