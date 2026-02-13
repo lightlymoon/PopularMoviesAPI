@@ -23,7 +23,7 @@ The application dynamically fetches real-time data from an external movie API to
 
 ## 🌐 Live Demo
 
-👉 https://lightlymoon.github.io/PopularMoviesAPI/
+👉 **[Click here to see the live demo](https://lightlymoon.github.io/PopularMoviesAPI/)**
 
 ---
 
