@@ -26,6 +26,16 @@ The application dynamically fetches real-time data from an external movie API to
 
 ---
 
+
+# 📱 User Interface Preview
+
+## Desktop Views 
+![Desktop Mockup](./assets/PopularMoviesMain.png)
+![Desktop Mockup](./assets/PopularMoviesFavPage.png)
+
+
+---
+
 ## 📌 About The Project
 
 This project was developed using **HTML**, **CSS**, and **Vanilla JavaScript**.  
