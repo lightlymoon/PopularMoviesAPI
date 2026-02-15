@@ -89,7 +89,7 @@ The project covers the following concepts:
 
 ---
 
-## ❤️ Add to Favorites System
+## ⭐ Add to Favorites System
 
 - Add movies to favorites
 - Store favorites in LocalStorage
