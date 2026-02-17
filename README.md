@@ -1,5 +1,3 @@
-Aşağıya direkt kopyalayıp kullanabileceğin, profesyonel ve tamamen İngilizce README.md dosyasını bırakıyorum:
-
 ## 🎬 PopularMoviesAPI
 
 <div align="center">
