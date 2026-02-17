@@ -50,9 +50,6 @@ The project covers the following concepts:
 - 🔄 Movie detail page routing  
 
 ---
-
-# 🚀 Features
-
 ## 👤 User Registration & Login System
 
 - User registration (Register)
